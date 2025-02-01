@@ -1,5 +1,5 @@
 # yahooFinancePriceScraper
-Simlple script to get the yahoo finance prices in google sheets (it works with all exchange and also for "exchange-exclusive" etfs)
+Simlple script to get every yahoo finance prices in google sheets (it works with all exchange and also for "exchange-exclusive" etfs)
 
 ## Usage 
 In google sheets: extensions -> App Scripts then in App Scripts -> add a file, paste this script and you are done!
