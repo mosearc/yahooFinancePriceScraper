@@ -6,3 +6,5 @@ In google sheets: extensions -> App Scripts then in App Scripts -> add a file, p
 
 Now in your google sheet file you have YAHOOFINANCE("TICKER") function <br> 
 You can use directly =YAHOOFINANCE("GOOG") to get the price from yahoofinance
+
+For a better experience, in App Scripts, set a time trigger to automatically re-run the function and get the realtime price
